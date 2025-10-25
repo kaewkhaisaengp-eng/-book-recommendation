@@ -58,5 +58,17 @@ body {
 }
 
 .bg-yellow {
-background-color: rgb(221, 199, 240);
+background-color: #fffdd1;
+}
+
+.bg-blue {
+background-color: #97bddd;
+}
+
+.bg-pink {
+background-color: #ffd0de;
+}
+
+body {
+background-color: #fffef0;
 }
